@@ -13,7 +13,7 @@ import { RouterLink } from '@angular/router';
         <p class="home-hero__subtitle">Это мини‑приложение из двух страниц с меню и чекбоксами.</p>
         <div class="home-hero__cta">
           <a class="home-hero__button" routerLink="/menu">Перейти к меню</a>
-          <span class="home-hero__hint">Данные статичны, расчеты обновляются实时но</span>
+          <span class="home-hero__hint">Данные статичны, расчеты обновляются</span>
         </div>
       </section>
       <section class="home-panels">
